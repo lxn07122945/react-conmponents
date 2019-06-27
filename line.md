@@ -11,7 +11,16 @@
             `npm install extract-text-webpack-plugin html-webpack-plugin --save-dev`
         5、webpack基础配置
         6、webpack打包配置
-react
+###二、react
+    生命周期函数：
+     旧的生命周期函数：
+        componentsWillReceiveProps  
+        componentShouldUpdate
+        componentWillUpdate
+        componentDidUpdate
+        componentWillMount
+        componentDidMount
+    input 的ref属性
 flux
 redux
 reducer
